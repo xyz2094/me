@@ -8,7 +8,6 @@ function Footer() {
     <> 
       <div className="main-footer">
         <p> vittor dallacqua &copy; {new Date().getFullYear()} </p>
-      <br> </br>
       </div>
       <div>
 className="easter-egg">
